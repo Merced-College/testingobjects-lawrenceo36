@@ -2,6 +2,7 @@
 # testingObjects
 
 this is an example of a ReadMe file.
+
 1. Before the toString what printed when attempting to print an object was the name of your object with a separator such as '@' followed by the hashcode of the object in memory this happens becuase every class in jave implicitly inherits the java.lang.Object which defines a default toString method
 
 2. My classes three fields were the make, model, and year of a vehicle. Their values before setting them were 'Unknown', 'Unknown' , '0'
